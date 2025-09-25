@@ -16,4 +16,3 @@ jobs:
         with:
           project-dir: .
           command: buildozer android debug
-
